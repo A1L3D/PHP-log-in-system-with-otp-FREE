@@ -2,7 +2,7 @@
 
  Ultra-secure authentication system (password encryption) built with PHP. It leverages **One-Time Password (OTP)** verification sent via SMTP to provide a seamless and secure 2FA experience. The frontend features a "Glassmorphism 2.0" design, offering a professional Single Page Application (SPA) feel.
 
-
+## photos: https://imgur.com/a/2mGL75b
 
 ##  Key Features
 *  **Modern UI:** Premium Dark-Mode interface with recursive blurs and fluid CSS transitions.
